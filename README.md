@@ -1,6 +1,8 @@
-# Foobar
+# ActivityEvents
 
-Foobar is a Python library for dealing with word pluralization.
+This Extention does inform you about the Android Activity Events like onStart(), onPause...
+
+Its very usefull and sometimes necessary for 3rd party extentions!
 
 ## Installation
 
