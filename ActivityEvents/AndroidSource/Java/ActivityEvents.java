@@ -120,5 +120,13 @@ public class ActivityEvents implements IExtensionBase {
         return false;
     }
 
+    public boolean performClick() {
+        return false;
+    }
+
+    public void onNewIntent(android.content.Intent newIntent) {
+        
+    }
+
 
 }
